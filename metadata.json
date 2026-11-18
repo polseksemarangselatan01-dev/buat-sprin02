@@ -1,0 +1,6 @@
+{
+  "name": "SIPRIN — Sistem Surat Perintah & Quick Wins Polri",
+  "description": "Dashboard administrasi pelaporan Quick Wins Polri dan generator Surat Perintah (Sprin) 2 halaman siap cetak A4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
